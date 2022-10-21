@@ -18,7 +18,7 @@ public class Array
 			System.out.println(array[i]);
 			i++;
 		}
-
+		sc.close();
 	}
 
 }
