@@ -58,6 +58,9 @@ public class Statements {
 			System.out.println("Its 6:am wake up");
 			break;
 			
+			default:
+			System.out.println("snoozed");
+			
 			
 		}
 			
